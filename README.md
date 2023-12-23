@@ -18,9 +18,9 @@ I'm involved in various software development projects, including:
 - **Innovation:** Embracing creativity to solve real-world problems.
 
 ### 📫 Let's Connect
-- **Email:** [your.email@example.com](mailto:murtessajabesa65@gmail.com)
-- **LinkedIn:** [linkedin.com/in/murtessajabesa](https://www.linkedin.com/in/murtessa-jabesa-a36998295/))
-- **Website:** [murtessa.com](https://murtessa.github.io/personal-website/)
+- **Email:** [mailto:murtessajabesa65@gmail.com]
+- **LinkedIn:** [linkedin.com/in/murtessajabesa]
+- **Website:** [[murtessa.com]
 
 Feel free to explore my pinned repositories for a closer look at my projects. Excited to connect and collaborate with fellow developers! 🚀
 
