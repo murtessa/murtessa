@@ -8,6 +8,9 @@
 💻 Passionate Developer | 🌍 Building Solutions That Matter
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murtessa-jabesa-a36998295/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:murtessajabesa65@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github)](https://murtessa.github.io/personal-website/)
 ---
 
 ### 🏆 About Me
@@ -43,17 +46,30 @@ I'm **Murtessa Jabesa**, a Software Engineer who recently graduated with the **H
 
 ---
 
+
+## 🚀 Professional Highlights
+
+- 🔭 **Innovative Solutions**: Developed cutting-edge software with real-world impact
+- 🌟 **Award-Winning Projects**: Recognized for technical excellence and creativity
+- 🤝 **Collaborative Leader**: Experienced in team-based agile development
+- 📊 **Full-Stack Expertise**: End-to-end project implementation
+
+## 📫 Let's Build Something Amazing!
+
+I'm always open to:
+- 💼 Exciting job opportunities
+- 🤝 Collaborative projects
+- 💡 Tech discussions
+- 🎯 Mentorship (both giving and receiving)
+- 
 ### 📫 Let's Connect
 
 - 📧 Email: [murtessajabesa65@gmail.com](mailto:murtessajabesa65@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/murtessa-jabesa-a36998295](https://www.linkedin.com/in/murtessa-jabesa-a36998295/)
 - 🌐 Portfolio: [murtessa-personal-site.netlify.app](https://murtessa-personal-site.netlify.app/)
 
----
 
-### 📌 Featured Projects
 
-Take a look at my **pinned repositories** below ⬇️ for live demos, code, and case studies of my recent work.
 
 ---
 
