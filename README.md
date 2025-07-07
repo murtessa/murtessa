@@ -8,9 +8,11 @@
 💻 Passionate Developer | 🌍 Building Solutions That Matter
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murtessa-jabesa-a36998295/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:murtessajabesa65@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github)](https://murtessa.github.io/personal-website/)
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/murtessa-jabesa-a36998295/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:murtessajabesa65@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://murtessa-personal-site.netlify.app/)
 ---
 
 ### 🏆 About Me
