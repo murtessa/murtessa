@@ -1,8 +1,7 @@
 <!-- Profile ReadMe for Murtessa Jabesa -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there+👋,+I'm+Murtessa+Jabesa;Software+Engineer+%7C+Gold+Medalist+🥇" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi there 👋, I'm Murtessa Jabesa</h1>
+
 
 <p align="center">
 🎓 <b>Gold Medalist | Software Engineering Graduate | Jimma University</b> 🇪🇹 <br>
