@@ -46,7 +46,7 @@ I'm **Murtessa Jabesa**, a Software Engineer who recently graduated with the **H
 
 - 📧 Email: [murtessajabesa65@gmail.com](mailto:murtessajabesa65@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/murtessa-jabesa-a36998295](https://www.linkedin.com/in/murtessa-jabesa-a36998295/)
-- 🌐 Portfolio: [murtessa.github.io/personal-website](https://murtessa-personal-site.netlify.app/)
+- 🌐 Portfolio: [murtessa-personal-site.netlify.app](https://murtessa-personal-site.netlify.app/)
 
 ---
 
