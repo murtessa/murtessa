@@ -72,13 +72,7 @@ I'm always open to:
 ---
 
 
-### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murtessa&show_icons=true&theme=radical" alt="Murtessa's GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=murtessa&theme=radical" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
